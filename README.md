@@ -1,4 +1,5 @@
-Overview
+'Overview'
+
 The Predictive Maintenance System (PMS) is designed to anticipate and prevent equipment failure by leveraging machine learning and data analytics. This system monitors sensor data, detects patterns, and predicts when maintenance is needed, minimizing downtime and optimizing resource usage.# Predictive-Maintenance-System  
 
 Features
@@ -17,6 +18,7 @@ Data Processing: pandas, numpy
 Visualization: matplotlib, seaborn, plotly
 Web: Flask 
 Version Control: Git, GitHub
+
 
 
 Install
