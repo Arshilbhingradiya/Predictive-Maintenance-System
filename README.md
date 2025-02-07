@@ -21,7 +21,7 @@ Version Control: Git, GitHub
 
 
 
-Install
+# How to Install
 
 pip install -r requirements.txt
 
